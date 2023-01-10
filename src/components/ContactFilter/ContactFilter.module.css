@@ -1,0 +1,21 @@
+.filterName {
+  margin-top: 5px;
+
+  font-size: 20px;
+  display: flex;
+
+  margin-left: 30px;
+  font-size: large;
+  text-align: left;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 5px;
+
+  border: 1px solid #000;
+}
+.title {
+  font-size: x-large;
+  font-weight: 800;
+  color: rgb(63, 55, 55);
+  margin-left: 15px;
+}

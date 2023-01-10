@@ -1,0 +1,39 @@
+.Form {
+  width: 30%;
+  padding: 10px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  border: 1px solid #000;
+}
+
+.FormName,
+.FormNumber {
+  display: flex;
+  font-size: 20px;
+  font-size: large;
+  text-align: left;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 5px;
+
+  border: 1px solid #000;
+}
+
+.FormBtn {
+  font-size: 16px;
+  display: inline-block;
+  margin-top: 20px;
+
+  width: 50%;
+  height: 36px;
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px solid #000;
+  background-color: rgb(214, 191, 175);
+}
+
+.FormBtn:hover {
+  background-color: rgb(154, 129, 110);
+  cursor: pointer;
+  color: white;
+}

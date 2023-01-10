@@ -1,0 +1,18 @@
+.contactBtn {
+  display: block;
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 3px;
+  padding: 3px 7px;
+  cursor: pointer;
+}
+
+.contactBtn:hover {
+  background-color: rgb(145, 123, 102);
+  color: #fff;
+  cursor: pointer;
+}
+
+.List {
+  list-style: none;
+}
